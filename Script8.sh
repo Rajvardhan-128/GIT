@@ -11,7 +11,6 @@ echo "a * b : $val3"
 val4=`expr $b / $a`
 echo "b / a : $val4"
 val5=`expr $b % $a`
-echo "b % a : $val5"
 
 
 
