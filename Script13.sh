@@ -4,7 +4,7 @@ echo "Please enter the vaule of a"
 read a
 echo "Please enter the vaule of b"
 read b
-
+add the new line in center of the code 
 if [ $a != $b ]
 then
  echo "$a != $b : a is not equal to b"
